@@ -1,0 +1,6 @@
+export HomePage from './home/HomePage'
+export FeedbackPage from './feedback/FeedbackPage'
+export JudgePage from './judge/JudgePage'
+export ProfilePage from './profile/ProfilePage'
+export CategoryPage from './categroy/CategoryPage'
+export LoginPage from './LoginPage'
